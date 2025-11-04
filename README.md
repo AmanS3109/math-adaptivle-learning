@@ -18,9 +18,6 @@ Built with **Python + Streamlit**, featuring both **rule-based** and **ML-ready*
 
 ---
 
-## 🏗️ Architecture
-
-![Architecture Diagram](./math_adventures_architecture.png)
 
 **Core Modules**
 
