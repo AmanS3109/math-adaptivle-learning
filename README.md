@@ -63,7 +63,7 @@ Contains:
 ```bash
 # Clone repository
 git clone https://github.com/<your-username>/math-adaptive-learning.git
-cd math-adaptive-prototype
+cd math-adaptive-learning
 
 # Create & activate virtual environment
 python -m venv venv
